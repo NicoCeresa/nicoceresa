@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a Google Chrome extension that takes in a subreddit url and uses a summarization model to extract key information to save time in looking for the key information you need
+- 🌱 I’m currently learning everything I can on Deep Learning and AI by building projects, making sure my fundamentals stay up to par, and reading academic papers that shape the future of ML
+- 📫 How to reach me:
+Email -> ceresanico@gmail.com <br/>
+LinkedIn -> https://www.linkedin.com/in/domenico-ceresa/ <br/>
+- 😄 Pronouns: He/Him
 <!--
 **NicoCeresa/nicoceresa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
