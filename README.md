@@ -3,7 +3,7 @@
 My name is Domenico but you can call me Nico, I have a degree in Data Science and am passionate about all things Machine Learning!
 
 - 🔭 I’m currently working on SubText: a model that takes in the url of a subreddit post and uses a summarization model to extract key information, saving you time in finding the information you need to assist you in what you are working on
-- ⚡ I recently built a Deep Learning model that uses Super Resolution to upscale images up to 4x! I implemented [this](https://arxiv.org/pdf/1608.00367.pdf) paper and achieved results within 2db of the paper's results! To see my work, clicke [here](https://github.com/NicoCeresa/FSRCNN-2016)
+- ⚡ I recently built a Deep Learning model that uses Super Resolution to upscale images up to 4x! I implemented [this](https://arxiv.org/pdf/1608.00367.pdf) paper and achieved results within 2db of the paper's results! To see my work, [click here](https://github.com/NicoCeresa/FSRCNN-2016)
 - 🌱 I’m currently learning everything I can on Deep Learning and AI by building projects, making sure my fundamentals stay up to par, and reading academic papers that shape the future of ML
 - 📫 How to reach me: <br/>
 Email -> ceresanico@gmail.com <br/>
