@@ -1,6 +1,6 @@
-### Hi there 👋
+# Welcome to my Github!
 
-My name is Domenico but you can call me Nico, I have a degree in Data Science and am passionate about all things Machine Learning!
+**My name is Domenico but you can call me Nico, I have a degree in Data Science and am passionate about all things Machine Learning!**
 
 - I am currently working on my Masters in Computer Science at Georgia Tech with a specialization in machine learning
 - I am building a computer vision app called Crux Cam. It is used to analyze a climber's body movements to model their climbing movement and provide insights.
