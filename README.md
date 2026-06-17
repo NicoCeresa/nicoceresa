@@ -4,10 +4,11 @@
 
 - I am pursuing my Masters in Computer Science at Georgia Tech with a specialization in machine learning.
 
-- I am building a computer vision app that impliments a pose estimation model. The model analyzes a climber's movement and gives the user feedback based on their body positioning throughout the climb.
+- I am passionate about machine learning, specifically perception and how robots interact autonomously with the world
 
-- I recently built a deep learning model that uses Super Resolution to upscale images up to 4x! I implemented [this](https://arxiv.org/pdf/1608.00367.pdf) paper and achieved results within 2db/1% of the paper's results! To see my work, [click here](https://github.com/NicoCeresa/FSRCNN-2016).
+- I am building a computer vision app, [CruxCam](https://crux-cam.vercel.app/), that uses a 3D pose estimation model to allow rock climbers to analyze their body position on the wall.
 
 - How to reach me: <br/>
+Website -> https://nico-ceresa.com <br/>
 Email -> ceresanico@gmail.com <br/>
 LinkedIn -> https://www.linkedin.com/in/domenico-ceresa/ <br/>
